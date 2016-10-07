@@ -67,15 +67,15 @@
    },
    "Maquis Incitement/1":{  
       "item":{  
-         "Hoverball/0":364,
-         "Hand Scanner/0":334,
-         "Clothing Pattern/2":77,
-         "Casing/1":217,
-         "Power Cell/1":150,
-         "Clothing Pattern/0":391
+         "Hoverball/0":371,
+         "Hand Scanner/0":335,
+         "Clothing Pattern/2":80,
+         "Casing/1":222,
+         "Power Cell/1":152,
+         "Clothing Pattern/0":397
       },
       "cost":4,
-      "runs":501
+      "runs":509
    },
    "A Logical Response/2":{  
       "item":{  
@@ -132,14 +132,14 @@
    },
    "Beyond the Call/1":{  
       "item":{  
-         "Communicator (TOS)/0":289,
-         "Hypospray (TNG)/0":297,
-         "Translation Algorithm/0":289,
-         "Incense/0":597,
-         "Clothing Pattern/0":574
+         "Communicator (TOS)/0":297,
+         "Hypospray (TNG)/0":304,
+         "Translation Algorithm/0":295,
+         "Incense/0":610,
+         "Clothing Pattern/0":585
       },
       "cost":4,
-      "runs":682
+      "runs":697
    },
    "Hot Pursuit/1":{  
       "item":{  
@@ -282,14 +282,14 @@
    },
    "The Army of Anaydis/3":{  
       "item":{  
-         "Astrometric Chart/2":14,
+         "Astrometric Chart/2":15,
          "Interlink/4":4,
          "Incense/3":4,
-         "Sensor/2":37,
-         "Spices/1":72
+         "Sensor/2":39,
+         "Spices/1":78
       },
       "cost":16,
-      "runs":42
+      "runs":45
    },
    "The Toss/3":{  
       "item":{  
@@ -495,13 +495,13 @@
    "Not A Drop to Drink/1":{  
       "item":{  
          "Phaser Type 1/1":60,
-         "Earpiece/0":625,
-         "Science Experiment/0":63,
-         "Phaser Type 2 (TMP)/0":630,
-         "Phaser Type 3 (TOS, Drink)/0":1047
+         "Earpiece/0":630,
+         "Science Experiment/0":64,
+         "Phaser Type 2 (TMP)/0":631,
+         "Phaser Type 3 (TOS, Drink)/0":1052
       },
       "cost":4,
-      "runs":687
+      "runs":691
    },
    "The Walls Have Ears/1":{  
       "item":{  
@@ -701,14 +701,14 @@
    },
    "Long Distance Call/1":{  
       "item":{  
-         "Phaser Type 2 (DS9)/0":146,
-         "Phaser Type 2 (TNG)/0":57,
-         "Starfleet Uniform (TNG)/0":146,
-         "Starfleet Uniform (TOS)/0":156,
-         "Casing/0":578
+         "Phaser Type 2 (DS9)/0":151,
+         "Phaser Type 2 (TNG)/0":59,
+         "Starfleet Uniform (TNG)/0":151,
+         "Starfleet Uniform (TOS)/0":162,
+         "Casing/0":602
       },
       "cost":4,
-      "runs":360
+      "runs":374
    },
    "Behind Closed Doors/1":{  
       "item":{  
@@ -873,15 +873,15 @@
    },
    "On Their Heels/1":{  
       "item":{  
-         "Writing PADD (TNG)/1":181,
-         "TR-580 Medical Tricorder/0":570,
-         "Starfleet Uniform (ENT)/0":579,
+         "Writing PADD (TNG)/1":182,
+         "TR-580 Medical Tricorder/0":571,
+         "Starfleet Uniform (ENT)/0":580,
          "Starfleet Uniform (VOY)/0":516,
-         "Clothing Pattern/0":2129,
+         "Clothing Pattern/0":2132,
          "Power Cell/0":2027
       },
       "cost":4,
-      "runs":1324
+      "runs":1326
    },
    "Coursing Hounds/1":{  
       "item":{  
@@ -897,13 +897,13 @@
       "item":{  
          "Val Jean Schematic/0":54,
          "Authorization Code/2":12,
-         "Pattern Enhancer/2":20,
-         "Interlink/1":99,
+         "Pattern Enhancer/2":21,
+         "Interlink/1":102,
          "Expansion Module/1":37,
-         "Subprocessor/1":57
+         "Subprocessor/1":59
       },
       "cost":10,
-      "runs":82
+      "runs":84
    },
    "Incompatible With Life/2":{  
       "item":{  
@@ -960,22 +960,22 @@
    "Moriarty's Deadline/1":{  
       "item":{  
          "Communicator (TOS)/0":20,
-         "Power Cell/2":23,
-         "Replicator Ration/2":38,
-         "Subprocessor/1":73
+         "Power Cell/2":25,
+         "Replicator Ration/2":41,
+         "Subprocessor/1":77
       },
       "cost":10,
-      "runs":50
+      "runs":53
    },
    "Long Distance Call/3":{  
       "item":{  
          "Replicator Ration/3":3,
          "Subprocessor/2":14,
-         "Gold-Pressed Latinum/1":73,
+         "Gold-Pressed Latinum/1":76,
          "Optronic Circuit/0":72
       },
       "cost":8,
-      "runs":54
+      "runs":55
    },
    "Pillage and Plunder/2":{  
       "item":{  
@@ -990,13 +990,13 @@
    },
    "Manna from Heaven/2":{  
       "item":{  
-         "3d Chess Set/1":150,
-         "Casing/2":82,
-         "Subprocessor/1":308,
-         "Incense/0":313
+         "3d Chess Set/1":154,
+         "Casing/2":85,
+         "Subprocessor/1":317,
+         "Incense/0":318
       },
       "cost":8,
-      "runs":283
+      "runs":290
    },
    "Picking the Bones/1":{  
       "item":{  
@@ -1025,11 +1025,11 @@
          "Tulaberry Wine/1":30,
          "Phaser Type 3 (TNG)/0":183,
          "Submicron Scanner/0":175,
-         "Replicator Ration/1":147,
-         "Spices/0":178
+         "Replicator Ration/1":149,
+         "Spices/0":179
       },
       "cost":6,
-      "runs":236
+      "runs":237
    },
    "Putting the Free in Freedom/1":{  
       "item":{  
@@ -1149,15 +1149,15 @@
    },
    "Arms Race/1":{  
       "item":{  
-         "Authorization Code/2":6,
-         "Starfleet Test Cylinder/0":15,
+         "Authorization Code/2":7,
+         "Starfleet Test Cylinder/0":17,
          "Interlink/3":5,
-         "Microconnector/2":21,
-         "Spices/2":11,
-         "Isolinear Chips/1":737
+         "Microconnector/2":22,
+         "Spices/2":13,
+         "Isolinear Chips/1":749
       },
       "cost":10,
-      "runs":76
+      "runs":82
    },
    "Cytherian Highway/2":{  
       "item":{  
@@ -1182,25 +1182,25 @@
    },
    "Assault and Battery/1":{  
       "item":{  
-         "Neutron Microscope/1":51,
-         "Earl Grey Tea/0":190,
-         "Dermal Regenerator/0":160,
-         "Text Book/0":187,
-         "Alcohol/0":706
+         "Neutron Microscope/1":52,
+         "Earl Grey Tea/0":193,
+         "Dermal Regenerator/0":163,
+         "Text Book/0":190,
+         "Alcohol/0":720
       },
       "cost":4,
-      "runs":323
+      "runs":329
    },
    "Mortals and Mayhem/1":{  
       "item":{  
-         "Phase Pistol/1":240,
-         "Graviton Emitter/0":477,
-         "Neurocortical Monitor/0":215,
-         "Bajoran PADD/0":56,
-         "Duotronic Probe/0":2315
+         "Phase Pistol/1":259,
+         "Graviton Emitter/0":515,
+         "Neurocortical Monitor/0":227,
+         "Bajoran PADD/0":60,
+         "Duotronic Probe/0":2321
       },
       "cost":4,
-      "runs":390
+      "runs":420
    },
    "History Interrupted/2":{  
       "item":{  
@@ -1215,13 +1215,13 @@
    },
    "A Tale of Forgotten Lore/3":{  
       "item":{  
-         "Database (Panel)/3":24,
+         "Database (Panel)/3":25,
          "Alcohol/2":51,
-         "Clothing Pattern/1":328,
-         "Interlink/0":334
+         "Clothing Pattern/1":334,
+         "Interlink/0":339
       },
       "cost":8,
-      "runs":182
+      "runs":185
    },
    "Pillage and Plunder/3":{  
       "item":{  
@@ -1269,13 +1269,13 @@
    },
    "Maquis Incitement/2":{  
       "item":{  
-         "3d Chess Set/1":62,
-         "Power Cell/2":45,
-         "Database (Panel)/1":154,
-         "Expansion Module/0":157
+         "3d Chess Set/1":63,
+         "Power Cell/2":47,
+         "Database (Panel)/1":155,
+         "Expansion Module/0":159
       },
       "cost":8,
-      "runs":138
+      "runs":140
    },
    "The Army of Anaydis/1":{  
       "item":{  
@@ -1366,14 +1366,14 @@
    },
    "Highwaymen/1":{  
       "item":{  
-         "Field Rations/1":87,
-         "TR-580 Medical Tricorder/0":246,
-         "Starfleet Uniform (ENT)/0":234,
+         "Field Rations/1":89,
+         "TR-580 Medical Tricorder/0":248,
+         "Starfleet Uniform (ENT)/0":235,
          "Starfleet Uniform (VOY)/0":257,
-         "Power Cell/0":8322
+         "Power Cell/0":8332
       },
       "cost":4,
-      "runs":602
+      "runs":607
    },
    "The Mad Vedek/2":{  
       "item":{  
@@ -1398,13 +1398,13 @@
    "Death Throes/2":{  
       "item":{  
          "Field Rations/2":58,
-         "Writing PADD (DS9)/0":66,
+         "Writing PADD (DS9)/0":67,
          "Starfleet Uniform Pattern/3":77,
-         "Emitter Crystal/2":150,
-         "Subprocessor/1":355
+         "Emitter Crystal/2":151,
+         "Subprocessor/1":356
       },
       "cost":16,
-      "runs":199
+      "runs":200
    },
    "Instant Intervention/2":{  
       "item":{  
@@ -1440,15 +1440,15 @@
    },
    "The Rings of Time/1":{  
       "item":{  
-         "Field Rations/2":2,
+         "Field Rations/2":3,
          "Polyalloy/4":1,
          "Subprocessor/4":1,
          "Interlink/3":1,
-         "Relay/2":3,
-         "Emitter Crystal/1":22
+         "Relay/2":5,
+         "Emitter Crystal/1":31
       },
       "cost":14,
-      "runs":8
+      "runs":12
    },
    "Death in Battle/2":{  
       "item":{  
@@ -1484,11 +1484,11 @@
       "item":{  
          "Astrometric Chart/1":48,
          "Database (Panel)/2":24,
-         "Casing/1":98,
-         "Interlink/0":114
+         "Casing/1":100,
+         "Interlink/0":116
       },
       "cost":8,
-      "runs":71
+      "runs":72
    },
    "The Coming Storm/2":{  
       "item":{  
@@ -1524,15 +1524,15 @@
    },
    "Pirate Problems/3":{  
       "item":{  
-         "Val Jean Schematic/0":294,
-         "Isolinear Chips/4":31,
+         "Val Jean Schematic/0":297,
+         "Isolinear Chips/4":32,
          "Subprocessor/4":23,
-         "Casing/3":163,
-         "Database (Panel)/2":471,
-         "Polyalloy/2":417
+         "Casing/3":164,
+         "Database (Panel)/2":473,
+         "Polyalloy/2":421
       },
       "cost":18,
-      "runs":398
+      "runs":401
    },
    "Proof of Concept/2":{  
       "item":{  
@@ -1638,14 +1638,14 @@
    },
    "No Returns Accepted/2":{  
       "item":{  
-         "Hand Scanner/0":59,
-         "Microconnector/4":15,
-         "Polyalloy/3":33,
-         "Database (Panel)/1":276,
-         "Polyalloy/0":297
+         "Hand Scanner/0":62,
+         "Microconnector/4":16,
+         "Polyalloy/3":35,
+         "Database (Panel)/1":281,
+         "Polyalloy/0":313
       },
       "cost":16,
-      "runs":225
+      "runs":234
    },
    "Not Without A Fight/1":{  
       "item":{  
@@ -2027,13 +2027,13 @@
    },
    "No Man Left Behind/1":{  
       "item":{  
-         "Poker Cards/1":42,
-         "Hyperspanner (DS9)/0":33,
-         "Translation Algorithm/0":55,
-         "Incense/1":83
+         "Poker Cards/1":57,
+         "Hyperspanner (DS9)/0":43,
+         "Translation Algorithm/0":64,
+         "Incense/1":103
       },
       "cost":1,
-      "runs":71
+      "runs":89
    },
    "Picking the Bones/2":{  
       "item":{  
@@ -2103,13 +2103,13 @@
    "Death Throes/3":{  
       "item":{  
          "Database (Panel)/4":10,
-         "Furs/4":14,
-         "Casing/3":73,
+         "Furs/4":15,
+         "Casing/3":74,
          "Incense/2":214,
-         "Sensor/2":198
+         "Sensor/2":199
       },
       "cost":20,
-      "runs":168
+      "runs":169
    },
    "Coursing Hounds/3":{  
       "item":{  
@@ -2190,12 +2190,12 @@
    },
    "Family Squabble/2":{  
       "item":{  
-         "Emitter Crystal/3":20,
-         "Alcohol/1":120,
-         "Replicator Ration/0":102
+         "Emitter Crystal/3":22,
+         "Alcohol/1":138,
+         "Replicator Ration/0":115
       },
       "cost":12,
-      "runs":90
+      "runs":102
    },
    "Bravery in Action/1":{  
       "item":{  
@@ -2232,12 +2232,12 @@
    "Talarian Coup/1":{  
       "item":{  
          "Darts/0":12,
-         "Prime Directive/0":17,
-         "Holoprogram/0":29,
+         "Prime Directive/0":19,
+         "Holoprogram/0":30,
          "Optronic Circuit/0":22
       },
       "cost":1,
-      "runs":25
+      "runs":26
    },
    "Talarian Coup/2":{  
       "item":{  
@@ -2261,13 +2261,13 @@
    },
    "Back to School/1":{  
       "item":{  
-         "Gold-Pressed Latinum/3":1,
-         "Replicator Ration/3":2,
-         "Casing/2":6,
-         "Power Cell/1":52
+         "Gold-Pressed Latinum/3":3,
+         "Replicator Ration/3":6,
+         "Casing/2":13,
+         "Power Cell/1":87
       },
       "cost":14,
-      "runs":19
+      "runs":35
    },
    "First Conflict/1":{  
       "item":{  
@@ -2465,11 +2465,11 @@
       "item":{  
          "Phaser Type 1/1":41,
          "Clothing Pattern/2":15,
-         "Expansion Module/1":59,
+         "Expansion Module/1":62,
          "Power Cell/0":56
       },
       "cost":8,
-      "runs":57
+      "runs":58
    },
    "No Returns Accepted/3":{  
       "item":{  
@@ -2723,13 +2723,13 @@
    "Family Squabble/3":{  
       "item":{  
          "Interlink/4":4,
-         "Isolinear Chips/3":3,
-         "Optronic Circuit/2":16,
-         "Combadge (DS9)/2":6,
-         "Replicator Ration/1":21
+         "Isolinear Chips/3":4,
+         "Optronic Circuit/2":18,
+         "Combadge (DS9)/2":8,
+         "Replicator Ration/1":28
       },
       "cost":18,
-      "runs":15
+      "runs":19
    },
    "Operation Isolate/1":{  
       "item":{  
@@ -2767,11 +2767,11 @@
          "Writing PADD (TNG)/2":0,
          "Relay/4":0,
          "Relay/3":0,
-         "Furs/2":2,
-         "Furs/1":4
+         "Furs/2":6,
+         "Furs/1":12
       },
       "cost":16,
-      "runs":2
+      "runs":6
    },
    "Garak's Gamble/2":{  
       "item":{  
@@ -2819,12 +2819,12 @@
    "Saving Smiley O'Brien/1":{  
       "item":{  
          "Spices/3":1,
-         "Power Cell/2":1,
-         "Alcohol/1":1,
-         "Interlink/0":9
+         "Power Cell/2":2,
+         "Alcohol/1":9,
+         "Interlink/0":15
       },
       "cost":12,
-      "runs":4
+      "runs":9
    },
    "Saving Smiley O'Brien/2":{  
       "item":{  
@@ -2851,12 +2851,12 @@
    "No Returns Accepted/1":{  
       "item":{  
          " Starfleet Uniform Pattern /3":5,
-         " Relay /2":6,
-         " Expansion Module /1":19,
-         " Microconnector /0":28
+         " Relay /2":10,
+         " Expansion Module /1":24,
+         " Microconnector /0":37
       },
       "cost":10,
-      "runs":18
+      "runs":24
    },
    "Internal Dispute/3":{  
       "item":{  
@@ -3019,14 +3019,14 @@
    },
    "For the People/2":{  
       "item":{  
-         "Combadge (DS9)/2":13,
+         "Combadge (DS9)/2":14,
          "Database (Panel)/4":1,
-         "Casing/3":0,
-         "Isolinear Chips/2":13,
-         "Sensor/1":69
+         "Casing/3":1,
+         "Isolinear Chips/2":16,
+         "Sensor/1":82
       },
       "cost":16,
-      "runs":32
+      "runs":38
    },
    "Not Without A Fight/2":{  
       "item":{  
@@ -3162,7 +3162,7 @@
          "Relay/1":18
       },
       "cost":14,
-      "runs":5
+      "runs":6
    },
    "Right of Conquest/3":{  
       "item":{  
@@ -3216,5 +3216,5 @@
       "cost":20,
       "runs":0
    },
-   "timestamp":1475708017898
+   "timestamp":1475806652067
 }
