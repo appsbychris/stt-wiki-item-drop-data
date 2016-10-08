@@ -3803,13 +3803,18 @@
       "Gravimetric Scanner/1": 2
    },
    "Gravitic Caliper/1": {
-      "Gravitic Caliper/0": 2
+      "Gravitic Caliper/0": 1,
+      "Power Cell/0": 1,
+      "Casing/0": 3
    },
    "Gravitic Caliper/2": {
-      "Gravitic Caliper/1": 2
+      "Gravitic Caliper/1": 1,
+      "Interlink/1": 1,
+      "Polyalloy/1": 1
    },
    "Gravitic Caliper/3": {
-      "Gravitic Caliper/2": 2
+      "Gravitic Caliper/2": 2,
+      "Microconnector/2": 1
    },
    "Gravitic Caliper/4": {
       "Gravitic Caliper/3": 2
@@ -11666,5 +11671,5 @@
       "Power Cell/3": 2,
       "Multidimensional Transporter Device/2": 1
    },
-   "timestamp": 1475967305568
+   "timestamp": 1475970269323
 }
