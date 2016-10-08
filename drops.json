@@ -187,14 +187,14 @@
    },
    "Pillage and Plunder/1":{  
       "item":{  
-         "Combadge (TNG)/0":147,
-         "Writing PADD (TNG)/0":146,
-         "Security Reports/0":271,
-         "Database (Panel)/0":327,
-         "Replicator Ration/0":373
+         "Combadge (TNG)/0":148,
+         "Writing PADD (TNG)/0":148,
+         "Security Reports/0":272,
+         "Database (Panel)/0":331,
+         "Replicator Ration/0":377
       },
       "cost":4,
-      "runs":400
+      "runs":404
    },
    "Cardassian Hospitality/1":{  
       "item":{  
@@ -873,15 +873,15 @@
    },
    "On Their Heels/1":{  
       "item":{  
-         "Writing PADD (TNG)/1":182,
-         "TR-580 Medical Tricorder/0":571,
-         "Starfleet Uniform (ENT)/0":580,
-         "Starfleet Uniform (VOY)/0":516,
-         "Clothing Pattern/0":2132,
+         "Writing PADD (TNG)/1":183,
+         "TR-580 Medical Tricorder/0":575,
+         "Starfleet Uniform (ENT)/0":583,
+         "Starfleet Uniform (VOY)/0":519,
+         "Clothing Pattern/0":2148,
          "Power Cell/0":2027
       },
       "cost":4,
-      "runs":1326
+      "runs":1335
    },
    "Coursing Hounds/1":{  
       "item":{  
@@ -1527,12 +1527,12 @@
          "Val Jean Schematic/0":297,
          "Isolinear Chips/4":32,
          "Subprocessor/4":23,
-         "Casing/3":164,
-         "Database (Panel)/2":473,
-         "Polyalloy/2":421
+         "Casing/3":169,
+         "Database (Panel)/2":475,
+         "Polyalloy/2":423
       },
       "cost":18,
-      "runs":401
+      "runs":404
    },
    "Proof of Concept/2":{  
       "item":{  
@@ -2231,13 +2231,13 @@
    },
    "Talarian Coup/1":{  
       "item":{  
-         "Darts/0":12,
+         "Darts/0":13,
          "Prime Directive/0":19,
-         "Holoprogram/0":30,
+         "Holoprogram/0":32,
          "Optronic Circuit/0":22
       },
       "cost":1,
-      "runs":26
+      "runs":27
    },
    "Talarian Coup/2":{  
       "item":{  
@@ -2431,13 +2431,13 @@
    "Blunting the Dagger/2":{  
       "item":{  
          "Casing/4":5,
-         "Replicator Ration/3":12,
-         "Isolinear Chips/2":64,
-         "Replicator Ration/1":81,
-         "Expansion Module/0":95
+         "Replicator Ration/3":13,
+         "Isolinear Chips/2":65,
+         "Replicator Ration/1":86,
+         "Expansion Module/0":100
       },
       "cost":16,
-      "runs":84
+      "runs":88
    },
    "Warranted Pursuit/2":{  
       "item":{  
@@ -2818,13 +2818,13 @@
    },
    "Saving Smiley O'Brien/1":{  
       "item":{  
-         "Spices/3":1,
-         "Power Cell/2":2,
-         "Alcohol/1":9,
-         "Interlink/0":15
+         "Spices/3":2,
+         "Power Cell/2":8,
+         "Alcohol/1":34,
+         "Interlink/0":43
       },
       "cost":12,
-      "runs":9
+      "runs":29
    },
    "Saving Smiley O'Brien/2":{  
       "item":{  
@@ -3009,13 +3009,13 @@
    },
    "Instant Intervention/1":{  
       "item":{  
-         "Incense/3":3,
-         "Relay/3":5,
-         "Subprocessor/2":16,
-         "Subprocessor/1":109
+         "Incense/3":4,
+         "Relay/3":6,
+         "Subprocessor/2":21,
+         "Subprocessor/1":138
       },
       "cost":14,
-      "runs":43
+      "runs":55
    },
    "For the People/2":{  
       "item":{  
@@ -3216,5 +3216,5 @@
       "cost":20,
       "runs":0
    },
-   "timestamp":1475806652067
+   "timestamp":1475877813454
 }
