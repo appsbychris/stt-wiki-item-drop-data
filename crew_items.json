@@ -13721,7 +13721,7 @@
          "level": "70"
       },
       {
-         "item": "Combadge/0",
+         "item": "Combadge (DS9)/0",
          "level": "73"
       },
       {
@@ -22780,7 +22780,7 @@
          "level": "63"
       },
       {
-         "item": "Plasma Torch/2",
+         "item": "Phase Coil Resonator/2",
          "level": "66"
       },
       {
@@ -24230,19 +24230,19 @@
          "level": "60"
       },
       {
-         "item": "item/5",
+         "item": "Human Q's Clothing/3",
          "level": "60"
       },
       {
-         "item": "item/5",
+         "item": "Chocolate Sundae/3",
          "level": "63"
       },
       {
-         "item": "item/5",
+         "item": "Tricorder Mark VII/3",
          "level": "66"
       },
       {
-         "item": "item/5",
+         "item": "Toolbox/4",
          "level": "70"
       },
       {
@@ -38370,11 +38370,11 @@
          "level": "90"
       },
       {
-         "item": "item/5",
+         "item": "Starfleet Security Uniform (ENT)/2",
          "level": "90"
       },
       {
-         "item": "item/5",
+         "item": "Writing PADD (ENT)/3",
          "level": "93"
       },
       {
@@ -43732,5 +43732,5 @@
          "level": "99"
       }
    ],
-   "timestamp": 1475965763954
+   "timestamp": 1475981815200
 }
