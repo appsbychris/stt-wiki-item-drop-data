@@ -288,7 +288,7 @@
    },
    "Andorian Commando Uniform/2": {
       "Andorian Commando Uniform/1": 1,
-      "Andorian Rifle/1": 1,
+      "Andorian Rifle/2": 1,
       "Clothing Pattern/1": 2
    },
    "Andorian Communicator/1": {
@@ -315,6 +315,11 @@
       "Andorian Rifle/2": 1,
       "Andorian Pistol/1": 1,
       "Subprocessor/2": 4
+   },
+   "Andorian Rifle/4": {
+      "Andorian Rifle/3": 2,
+      "Subprocessor/3": 4,
+      "Polyalloy/3": 2
    },
    "Anslem/2": {
       "Novel/1": 1,
@@ -1514,7 +1519,13 @@
       "Fedora/3": 1
    },
    "Chocolate Sundae/2": {
-      "Replicator Ration/1": 2
+      "Replicator Ration/1": 2,
+      "Spices/1": 1,
+      "Alcohol/1": 1
+   },
+   "Chocolate Sundae/3": {
+      "Chocolate Sundae/2": 2,
+      "Replicator Ration/2": 2
    },
    "Chromolinguistics Text/1": {
       "Text Book/0": 1,
@@ -4274,6 +4285,11 @@
    "Human Q's Clothing/2": {
       "Civilian Scientist Clothing/1": 1,
       "Civilian Engineer Clothing/1": 1
+   },
+   "Human Q's Clothing/3": {
+      "Human Q's Clothing/2": 1,
+      "Science Lesson/2": 1,
+      "Engineering Lesson/2": 1
    },
    "Hupyrian Beetle Snuff/2": {
       "Tulaberry Wine/1": 1,
@@ -7837,6 +7853,11 @@
       "Field Rations/1": 1,
       "Stun Grenade/2": 1
    },
+   "Reed's Rifle/4": {
+      "Reed's Rifle/3": 1,
+      "Backpack/2": 1,
+      "Section 31 Encryption Algorithm/2": 1
+   },
    "Reed's Suliban Disguise/3": {
       "Suliban Uniform/2": 1,
       "Civilian Disguise/2": 1,
@@ -8843,6 +8864,16 @@
       "Shinzon's Uniform/3": 1,
       "Saddle/4": 1,
       "Model Enterprise/4": 1
+   },
+   "Shran's Uniform/2": {
+      "Andorian Commando Uniform/1": 2,
+      "Clothing Pattern/1": 2,
+      "Ushaan-tor/1": 1
+   },
+   "Shran's Uniform/3": {
+      "Shran's Uniform/2": 1,
+      "Andorian Ale/1": 1,
+      "Andorian Communicator/1": 1
    },
    "Shran's Ushaan-tor/3": {
       "Ushaan-tor/2": 1,
@@ -11671,5 +11702,5 @@
       "Power Cell/3": 2,
       "Multidimensional Transporter Device/2": 1
    },
-   "timestamp": 1475971053913
+   "timestamp": 1475981691737
 }
