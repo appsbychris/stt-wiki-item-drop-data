@@ -560,7 +560,8 @@
       "Database (Panel)/3": 2
    },
    "Astrometric Chart/5": {
-      "Astrometric Chart/4": 2
+      "Astrometric Chart/4": 2,
+      "Database (Panel)/4": 1
    },
    "Augment Icon/3": {
       "Augment Icon/2": 1,
@@ -1453,6 +1454,10 @@
    },
    "Casino Chip/4": {
       "Casino Chip/3": 2
+   },
+   "Castillo's Communicator/2": {
+      "Communicator (TOS)/1": 2,
+      "Interlink/1": 2
    },
    "Central Command Insignia/3": {
       "Central Command Insignia/2": 1,
@@ -2888,6 +2893,16 @@
       "Holoprogram/0": 1,
       "Optronic Data Core/0": 1
    },
+   "Drafting Room 5/3": {
+      "Drafting Room 5/2": 1,
+      "Engineering Lesson/2": 1,
+      "Optronic Circuit/1": 2
+   },
+   "Drafting Room 5/4": {
+      "Drafting Room 5/3": 1,
+      "Model Enterprise/3": 1,
+      "Optronic Circuit/2": 2
+   },
    "Dukat's Armor/3": {
       "Central Command Uniform/2": 1,
       "Central Command Insignia/2": 1,
@@ -3901,6 +3916,11 @@
       "Goran'Agar's Armor/2": 1,
       "Ketracel-white/2": 1,
       "Furs/2": 3
+   },
+   "Goran'Agar's Kar'takin/2": {
+      "Kar'takin/1": 1,
+      "Furs/1": 1,
+      "Polyalloy/1": 3
    },
    "Goran'Agar's PADD/2": {
       "Dominion PADD/1": 1,
@@ -5160,6 +5180,11 @@
       "Dominion Seal/2": 1,
       "Polyalloy/2": 2
    },
+   "Karr's Uniform/2": {
+      "Sainte Claire 1944/1": 1,
+      "20th Century Pistol/1": 1,
+      "Clothing Pattern/2": 2
+   },
    "Kayaking Holoprogram/1": {
       "Holoprogram/1": 1,
       "Identification Code/0": 2,
@@ -5941,6 +5966,12 @@
    "Kurlan Naiskos/4": {
       "Kurlan Naiskos/3": 2
    },
+   "Kurn's Armor/3": {
+      "Klingon Armor/2": 1,
+      "Polyalloy/2": 1,
+      "Furs/2": 1,
+      "Bloodwine/0": 1
+   },
    "Laser Beacon/1": {
       "Laser Beacon/0": 2
    },
@@ -6037,13 +6068,33 @@
    },
    "Lore's Suit/3": {
       "Lore's Suit/2": 2,
-      "Desktop Monitor/2": 1,
+      "Desktop Monitor (TNG)/2": 1,
       "Clothing Pattern/2": 2
+   },
+   "Lore's Suit/4": {
+      "Lore's Suit/3": 1,
+      "Clothing Pattern/3": 1,
+      "Criminal Activity Report/3": 1
+   },
+   "Lore's Suit/5": {
+      "Lore's Suit/4": 2,
+      "Clothing Pattern/4": 2,
+      "Writing PADD (TNG)/0": 2
    },
    "Lore's Tricorder/3": {
       "Data's Tricorder/2": 1,
       "Database (Panel)/2": 4,
       "Civilian Disguise/2": 1
+   },
+   "Lore's Tricorder/4": {
+      "Lore's Tricorder/3": 1,
+      "Emotion Chip/3": 1,
+      "Database (Panel)/3": 4
+   },
+   "Lore's Tricorder/5": {
+      "Lore's Tricorder/4": 1,
+      "Strategema/4": 1,
+      "Database (Panel)/4": 4
    },
    "Lore's suit/2": {
       "Positronic Brain/1": 1,
@@ -10763,6 +10814,10 @@
       "Archaeology Text/2": 1,
       "Kurlan Naiskos/2": 1
    },
+   "Switzer Journal Article/4": {
+      "Switzer Journal Article/3": 1,
+      "Kurlan Naiskos/3": 1
+   },
    "T'Pol's Communicator/3": {
       "Communicator (ENT)/2": 2,
       "Vulcan Tea/2": 1,
@@ -11639,10 +11694,20 @@
       "Civilian Diplomatic Clothing/1": 2,
       "Clothing Pattern/1": 2
    },
+   "Vash's Outfit/3": {
+      "Vash's Outfit/2": 1,
+      "Kurlan Naiskos/2": 2,
+      "Clothing Pattern/2": 2
+   },
    "Vash's Pack/3": {
       "Backpack/2": 2,
       "Kurlan Naiskos/2": 1,
       "Palm Beacon/2": 1
+   },
+   "Vash's Pack/4": {
+      "Vash's Pack/3": 2,
+      "Ancient Watch/3": 1,
+      "Palm Beacon/3": 2
    },
    "Vedek Cowl/0": {
       "Spring Wine/0": 1,
@@ -12225,5 +12290,5 @@
       "Power Cell/4": 2,
       "Yar's Belt/3": 1
    },
-   "timestamp": 1477792599230
+   "timestamp": 1477948824598
 }
